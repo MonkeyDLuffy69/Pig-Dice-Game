@@ -11,4 +11,3 @@ GAME RULES:
 
 
 This Game is hosted [here](https://monkeydluffy69.github.io/Pig-Dice-Game/index.html).
-[here]()
